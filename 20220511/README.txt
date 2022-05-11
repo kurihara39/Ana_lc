@@ -3,7 +3,7 @@ https://e-lab.atlassian.net/wiki/spaces/ELAB/pages/edit-v2/431325319?draftShareI
 
 ## links
 https://kurihara39.github.io/Ana_lc/20220511/burst_period_DTW.html
-https://kurihara39.github.io/Ana_lc/20220511/
+https://kurihara39.github.io/Ana_lc/20220511/burst_period_pad30.html
 https://kurihara39.github.io/Ana_lc/20220511/
 https://kurihara39.github.io/Ana_lc/20220511/
 https://kurihara39.github.io/Ana_lc/20220511/
