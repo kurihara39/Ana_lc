@@ -5,7 +5,7 @@ path = f"/data01/kurihara/Ana_lc/{today}"
 
 files = glob.glob(f"{path}/*.html")
 
-with open(f"{path}/README.txt", "a") as f:
+with open(f"{path}/README.txt", "w") as f:
     print("## github home", file=f)
     print("https://github.com/kurihara39/Ana_lc", file=f)
     print("", file=f)
