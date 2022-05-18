@@ -1,6 +1,9 @@
 ## github home
 https://github.com/kurihara39/Ana_lc
 
+## confluence
+https://e-lab.atlassian.net/wiki/spaces/ELAB/pages/129139550/MAXI
+
 ## links
 https://kurihara39.github.io/Ana_lc/20220518/batsurvey_lc.html
 https://kurihara39.github.io/Ana_lc/20220518/batsurvey_lc_decyear.html
