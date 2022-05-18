@@ -9,3 +9,4 @@ https://kurihara39.github.io/Ana_lc/20220518/batsurvey_lc.html
 https://kurihara39.github.io/Ana_lc/20220518/batsurvey_lc_decyear.html
 https://kurihara39.github.io/Ana_lc/20220518/HI.html
 https://kurihara39.github.io/Ana_lc/20220518/maxi_lc_positive.html
+https://kurihara39.github.io/Ana_lc/20220518/HI_0.75.html
