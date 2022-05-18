@@ -1,4 +1,4 @@
-python3 make_readme.py
+python3 ./make_readme.py
 
 git pull
 git add -A 
