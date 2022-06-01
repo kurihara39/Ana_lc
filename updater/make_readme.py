@@ -5,9 +5,9 @@ path = f"/data01/kurihara/Ana_lc/{today}"
 
 files = glob.glob(f"{path}/*.html")
 
-if os.path.exists(f"{path}/{today}")==False:
-    os.makedirs(f"{path}/{today}")
-    print(f"{path}/{today} is created.")   
+if os.path.exists(f"{path}")==False:
+    os.makedirs(f"{path}")
+    print(f"{path} is created.")   
 
 with open(f"{path}/README.txt", "w") as f:
     print("## github home", file=f)
