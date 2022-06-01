@@ -7,7 +7,12 @@ files = glob.glob(f"{path}/*.html")
 
 if os.path.exists(f"{path}")==False:
     os.makedirs(f"{path}")
-    print(f"{path} is created.")   
+    print(f"{path} is created.")
+
+path_maxi = f"/home/kurihara/2_lc_similarity/BATSURVEY/output/maxi/Analysis/{today}"
+if os.path.exists(f"{path_maxi}")==False:
+    os.makedirs(f"{path_maxi}")
+    print(f"{path_maxi} is created.")      
 
 with open(f"{path}/README.txt", "w") as f:
     print("## github home", file=f)
