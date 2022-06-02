@@ -4,6 +4,7 @@ today = os.environ["today"]
 path = f"/data01/kurihara/Ana_lc/{today}"
 
 files = glob.glob(f"{path}/*.html")
+files2 = glob.glob(f"{path}/*.png")
 
 if os.path.exists(f"{path}")==False:
     os.makedirs(f"{path}")
@@ -26,6 +27,8 @@ with open(f"{path}/README.txt", "w") as f:
     print("## links", file=f)
 
     for i in files:
+        print(i.replace("/data01/kurihara", "https://kurihara39.github.io"), file=f)
+    for i in files2:
         print(i.replace("/data01/kurihara", "https://kurihara39.github.io"), file=f)
     
     print(f"Finished writing on {path}/README.txt")
